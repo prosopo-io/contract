@@ -19,3 +19,5 @@ export * from './contract';
 export * from './types';
 export * from './network/network';
 export * from './abi';
+export * from './util';
+export * from './merkle';
